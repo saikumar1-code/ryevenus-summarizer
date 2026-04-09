@@ -2,6 +2,8 @@
 
 > **Multilingual AI text summarization powered by Google's mT5 transformer model**
 
+🌐 **Live Demo:** ryevenus-summarizer.vercel.app
+
 [![Next.js](https://img.shields.io/badge/Next.js-13.5-black?logo=next.js)](https://nextjs.org/)
 [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow)](https://huggingface.co/)
 [![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?logo=vercel)](https://vercel.com/)
